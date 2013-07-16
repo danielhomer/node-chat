@@ -1,0 +1,25 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.chat {
+	border: 1px solid #000;
+	margin: 1.5em 0;
+	padding: 1em;
+}
+
+.chat .posted_at {
+	font-size: 0.8em;
+	color: #ccc;
+	margin-top: 0.5em;
+}
+
+.newchat input#newChatText {
+	width: 97.5%;
+	padding: 1em;
+}
